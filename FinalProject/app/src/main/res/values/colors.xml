@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Uygulamanızın birincil rengi (Örnek) -->
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="teal_200">#03DAC5</color>
+
+    <!-- Metin vb. için kullanabileceğiniz diğer renkler -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="primary_text">#212121</color>
+    <color name="divider_color">#BDBDBD</color>
+    <color name="secondary_text">#757575</color>    <!-- Örnek ek renkler -->
+    <color name="orange_500">#FF9800</color>
+    <color name="red_500">#F44336</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="correct_background">#A5D6A7</color> <!-- Yeşil tonları -->
+    <color name="incorrect_background">#EF9A9A</color>
+
+    <color name="unanswered_background">#FFFFFF</color> <!-- Beyaz tonları -->
+    <color name="gray_background">#F5F5F5</color>
+
+</resources>

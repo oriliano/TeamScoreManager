@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Arka Plan -->
+    <background android:drawable="@drawable/placeholder_logo2" />
+    <!-- Ön Plan -->
+    <foreground android:drawable="@drawable/placeholder_logo2" />
+</adaptive-icon>
